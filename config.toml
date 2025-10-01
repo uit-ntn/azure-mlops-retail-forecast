@@ -1,0 +1,63 @@
+# Base URL trỏ về domain custom
+baseURL = "https://docs.vinashoes.org/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Azure MLOps Retail Forecast Platform"
+
+# Theme mặc định
+theme = "hugo-theme-learn"
+
+# Output formats (cần JSON cho search)
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+# Cho phép HTML raw trong Markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  # Theme variant
+  themeVariant = "workshop"
+  # Disable built-in search box
+  disableSearch = true
+
+  # GitHub repo link (nếu có)
+  editURL = "https://github.com/uit-ntn/azure-mlops-retail-forecast/edit/main/content/"
+
+  description = "Azure MLOps Retail Forecast Platform Documentation"
+  author = "Nguyễn Thanh Nhân, Hà Khả Nguyên, Phạm Thị Anh Đào & Dương Thị Quỳnh Giang"
+
+  # Custom CSS
+  custom_css = ["css/custom-image-border.css"]
+
+  # Navigation tweaks
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+
+# Ngôn ngữ đa ngữ
+[languages]
+
+  [languages.en]
+  title = "Azure MLOps Docs"
+  weight = 1
+  languageName = "English"
+
+  [[languages.en.menu.shortcuts]]
+  name = "<i class='fab fa-microsoft'></i> Azure Study Group"
+  identifier = "Azure Study Group"
+  url = "https://www.facebook.com/groups/awsstudygroupfcj/"
+  weight = 20
+
+  [languages.vi]
+  title = "Tài liệu Azure MLOps"
+  weight = 2
+  languageName = "Tiếng Việt"
+
+  [[languages.vi.menu.shortcuts]]
+  name = "<i class='fab fa-microsoft'></i> Azure Study Group"
+  identifier = "Azure Study Group"
+  url = "https://www.facebook.com/groups/awsstudygroupfcj/"
+  weight = 20
