@@ -1,5 +1,5 @@
 ---
-title: "Data Asset Registration in Azure ML Studio"
+title: "Data Asset Registration"
 date: 2025-08-30T11:30:00+07:00
 weight: 4
 chapter: false

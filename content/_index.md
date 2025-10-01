@@ -113,7 +113,7 @@ pre: "<b>0. </b>"
 <!-- Azure Technology Stack section moved ABOVE repo structure for emphasis -->
 <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; padding: 30px; border-radius: 16px; margin: 30px 0; box-shadow: 0 8px 25px rgba(30, 60, 114, 0.4);">
   <h2 style="margin-top: 0; color: white; font-size: 1.8rem; display: flex; align-items: center; gap: 10px;">
-    1. Azure MLOps Technology Stack & Architecture
+    Azure MLOps Technology Stack & Architecture
   </h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px;">
     <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 12px; backdrop-filter: blur(10px);">
@@ -144,7 +144,7 @@ pre: "<b>0. </b>"
 </div>
  
 
-<h2 style="margin: 40px 0 30px 0; font-size: 2.2rem; color: #1e293b; text-align: center;">2. 📚 Azure MLOps Workshop Steps</h2>
+<h2 style="margin: 40px 0 30px 0; font-size: 2.2rem; color: #1e293b; text-align: center;">📚 Azure MLOps Workshop Steps</h2>
 
 <div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border: 2px dashed #cbd5e1; padding: 30px; border-radius: 16px; margin: 30px 0; text-align: center;">
   <h3 style="margin: 0 0 15px 0; color: #1e293b; font-size: 1.5rem;">18 Task Azure MLOps Hoàn Chỉnh</h3>
@@ -167,7 +167,7 @@ pre: "<b>0. </b>"
   <div style="border: 2px solid #0078d4; padding: 25px; border-radius: 16px; background: linear-gradient(135deg, #e6f3ff 0%, #cce7ff 100%); box-shadow: 0 4px 15px rgba(0, 120, 212, 0.1); transition: transform 0.3s ease;">
     <h3 style="color: #004578; margin: 0 0 15px 0; display: flex; align-items: center; gap: 10px; font-size: 1.3rem;">
       <span style="background: #0078d4; color: white; padding: 8px; border-radius: 50%; width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; font-size: 16px;">🏗️</span>
-      2.1 Foundation & Registry
+      Foundation & Registry
     </h3>
     <ul style="margin: 0; padding-left: 0; list-style: none;">
       <li style="margin-bottom: 8px; padding-left: 20px; position: relative;"><span style="position: absolute; left: 0; color: #0078d4;">▸</span><a href="/1-introduction/" style="color: #004578; text-decoration: none;">Azure MLOps architecture overview</a></li>
@@ -181,7 +181,7 @@ pre: "<b>0. </b>"
   <div style="border: 2px solid #10b981; padding: 25px; border-radius: 16px; background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%); box-shadow: 0 4px 15px rgba(16, 185, 129, 0.1); transition: transform 0.3s ease;">
     <h3 style="color: #047857; margin: 0 0 15px 0; display: flex; align-items: center; gap: 10px; font-size: 1.3rem;">
       <span style="background: #10b981; color: white; padding: 8px; border-radius: 50%; width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; font-size: 16px;">🤖</span>
-      2.2 ML Training & Registry
+      ML Training & Registry
     </h3>
     <ul style="margin: 0; padding-left: 0; list-style: none;">
       <li style="margin-bottom: 8px; padding-left: 20px; position: relative;"><span style="position: absolute; left: 0; color: #10b981;">▸</span><a href="/6-aml-workspace/" style="color: #047857; text-decoration: none;">Azure ML Workspace setup</a></li>
@@ -194,7 +194,7 @@ pre: "<b>0. </b>"
   <div style="border: 2px solid #8b5cf6; padding: 25px; border-radius: 16px; background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%); box-shadow: 0 4px 15px rgba(139, 92, 246, 0.1); transition: transform 0.3s ease;">
     <h3 style="color: #6d28d9; margin: 0 0 15px 0; display: flex; align-items: center; gap: 10px; font-size: 1.3rem;">
       <span style="background: #8b5cf6; color: white; padding: 8px; border-radius: 50%; width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; font-size: 16px;">🚀</span>
-      2.3 Inference Deployment
+      Inference Deployment
     </h3>
     <ul style="margin: 0; padding-left: 0; list-style: none;">
       <li style="margin-bottom: 8px; padding-left: 20px; position: relative;"><span style="position: absolute; left: 0; color: #8b5cf6;">▸</span><a href="/10-ci-build/" style="color: #6d28d9; text-decoration: none;">CI Build & Image Push</a></li>
@@ -207,7 +207,7 @@ pre: "<b>0. </b>"
   <div style="border: 2px solid #ef4444; padding: 25px; border-radius: 16px; background: linear-gradient(135deg, #fef2f2 0%, #fecaca 100%); box-shadow: 0 4px 15px rgba(239, 68, 68, 0.1); transition: transform 0.3s ease;">
     <h3 style="color: #b91c1c; margin: 0 0 15px 0; display: flex; align-items: center; gap: 10px; font-size: 1.3rem;">
       <span style="background: #ef4444; color: white; padding: 8px; border-radius: 50%; width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; font-size: 16px;">📊</span>
-      2.4 Monitoring & Observability
+      Monitoring & Observability
     </h3>
     <ul style="margin: 0; padding-left: 0; list-style: none;">
       <li style="margin-bottom: 8px; padding-left: 20px; position: relative;"><span style="position: absolute; left: 0; color: #ef4444;">▸</span><a href="/14-app-insights/" style="color: #b91c1c; text-decoration: none;">Application Insights setup</a></li>
@@ -219,7 +219,7 @@ pre: "<b>0. </b>"
   <div style="border: 2px solid #06b6d4; padding: 25px; border-radius: 16px; background: linear-gradient(135deg, #ecfeff 0%, #cffafe 100%); box-shadow: 0 4px 15px rgba(6, 182, 212, 0.1); transition: transform 0.3s ease;">
     <h3 style="color: #0891b2; margin: 0 0 15px 0; display: flex; align-items: center; gap: 10px; font-size: 1.3rem;">
       <span style="background: #06b6d4; color: white; padding: 8px; border-radius: 50%; width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; font-size: 16px;">🔄</span>
-      2.5 Advanced Features
+      Advanced Features
     </h3>
     <ul style="margin: 0; padding-left: 0; list-style: none;">
       <li style="margin-bottom: 8px; padding-left: 20px; position: relative;"><span style="position: absolute; left: 0; color: #06b6d4;">▸</span><a href="/17-aks-alternative/" style="color: #0891b2; text-decoration: none;">AKS Alternative Deployment</a></li>
@@ -289,14 +289,6 @@ pre: "<b>0. </b>"
     </div>
   </div>
 </div>
-
-## TASK 3 — UPLOAD DỮ LIỆU CLICKSTREAM ≥4GB
-
-1. Mục tiêu: Tải các file tháng `2019-*.csv.gz` vào `data/raw/ecommerce/` (≥4GB).
-2. UI: Azure Portal / Storage Explorer (hoặc AzCopy).
-3. Bằng chứng: Ảnh `data/raw/ecommerce/` hiển thị các `.csv.gz` (tổng ≥4GB).
-4. Done: Dữ liệu sẵn sàng đọc từ Azure ML.
-
 <!-- Floating scroll indicator -->
 <div style="position: fixed; bottom: 30px; right: 30px; z-index: 1000;">
   <div onclick="window.scrollTo({top: 0, behavior: 'smooth'})" style="background: linear-gradient(135deg, #0078d4 0%, #106ebe 100%); color: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: 0 4px 15px rgba(0, 120, 212, 0.4); transition: all 0.3s ease; font-size: 24px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
